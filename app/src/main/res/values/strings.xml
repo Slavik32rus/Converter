@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trigonometric calculator</string>
+    <string name="degree">Degree</string>
+    <string name="calculate">Сalculate</string>
+    <string name="radian">Radian</string>
+    <string name="cotangent">Cotangent</string>
+    <string name="tangent">Tangent</string>
+    <string name="cosine">Cosine</string>
+    <string name="sine">Sine</string>
+    <string name="hint">Enter the angle</string>
+    <string name="answer">Answer</string>
+</resources>
